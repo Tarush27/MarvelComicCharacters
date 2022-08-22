@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+    <string name="avatar">avatar</string>
+    <string name="avengers">1. Avengers</string>
+    <string name="infinity_war">2. Infinity war</string>
+    <string name="thanos">3. Thanos</string>
+    <string name="four_rings">4. Four Rings</string>
+    <string name="cold_war">5. Cold War</string>
+    <string name="list_of_comics">List Of Comics</string>
+</resources>
